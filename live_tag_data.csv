@@ -1,0 +1,6 @@
+id,description,name,value,type,start_time,end_time,condition
+FTLGWYCn5480,NS3[String]::[Co...],r,98,Int64,11:11.1,11:11.1,Good
+FTLGWYCn5481,NS3[String]::[Co...],m1,53.03,Float,22:22.2,22:22.2,Good
+FTLGWYCn5482,NS3[String]::[Co...],m2,Fifty Two,String,33:33.3,33:33.3,Good
+FTLGWYCn5483,NS3[String]::[Co...],h1,TRUE,Boolean,44:44.4,44:44.4,Good
+FTLGWYCn5484,NS3[String]::[Co...],h2,916.654,Float,55:55.6,55:55.6,Good
